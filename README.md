@@ -4,7 +4,7 @@ This repository contains an animated login form created using HTML and CSS. The 
 
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/m1bo1dyv9JY))
 
 # Screenshot
 Here we have project screenshot :
@@ -21,17 +21,17 @@ Registration :
 ![screenshot](with2.png)
 
 Login :
-![screenshot](with.png)
+![screenshot](withlog.png)
 
 
 Registration :
-![screenshot](with4.png)
+![screenshot](withreg.png)
 
 
 
 
 Raw Image:
-![screenshot](love-freedom-walk-field-hr-3840x2160.jpg)
+![screenshot](up-there-with-you-sq-3840x2160.jpg)
 
 
 # Features:
